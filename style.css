@@ -60,3 +60,22 @@ li{
     font-size: 20px;
 
 }
+@media (max-width:900px){
+.header{
+    font-size: 20px;
+}
+
+.task input{
+    font-size: 15px;
+    margin:5px;
+}
+.task button,button{
+    font-size: 20px;
+    margin:5px;
+}
+li{
+    padding: 5px;
+    font-size: 15px;
+
+}
+}
